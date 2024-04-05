@@ -1,0 +1,118 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.nav{
+    width:100%;
+    height:2.5rem;
+    background-color: rgb(77, 0, 0);
+    position: fixed;
+}
+.nav img{
+    width: 3rem;
+    height: 2.4rem;
+    margin:0 0 0 15px;
+    border-radius: 4px;
+    mix-blend-mode:hard-light;
+
+}
+.nav nav ul{
+    margin-left: 58rem;
+    margin-top: -3.2%;
+} 
+
+.nav nav ul li {
+    display: inline-block;
+    flex-direction: row;
+    color: white;
+    padding-top: 10px;
+    position: relative;
+  
+ 
+}
+.nav nav ul li a{
+    text-decoration: none;
+    color: rgb(137, 202, 103);
+    margin-left: 2.5rem;
+} 
+.bimage img{
+    width:100%;
+    height:80vh;
+}
+.name h2{
+ margin-left:15px ;
+ word-spacing: 10px;
+}
+.name h2 span{
+    color:rgb(154, 13, 13);
+}
+.name h4{
+    margin: 5px 0 0 15px;
+    color: rgb(29, 112, 20);
+}
+.aboutsit p{
+    margin-left: 8px;
+    padding:20px;
+    width:96%;
+    height: 30%;
+    background-color: lightgreen;
+    font-size: large;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    line-height: 25px;
+    text-indent: 30px;
+}
+.aboutcsbs{
+    margin:20px 0 0 8px;
+    padding:20px;
+    width:96%;
+    height: 30%;
+    background-color: rgb(54, 107, 167);
+    font-size: large;
+    border-radius: 20px;
+    line-height: 25px;
+}
+.aboutcsbs ul li{
+    text-decoration: none;
+    text-indent: 30px;
+    list-style-type: none;
+    justify-content: center;
+    align-items: center;
+    color: azure;
+}
+.aboutcsbs ul li span{
+    color: rgba(232, 242, 51, 0.934);
+}
+.aboutmyclglife{
+    margin:20px 0 0 8px;
+    padding:20px;
+    width:96%;
+    height: 30%;
+    background-color:rgba(101, 169, 101, 0.842) ;
+    font-size: large;
+    border-radius: 20px;
+    line-height: 25px;
+}
+.aboutmyclglife h3{
+    background-color: white;
+    padding:10px 10px 10px 23%;
+    width:50%;
+    border-radius: 30px;
+    margin-left:14.5%;
+}
+.tq{
+    background-color: rgb(28, 155, 209);
+    border-radius: 20px;
+    width:99%;
+    height:2rem;
+    border: 1px solid black;
+    box-shadow:-5px -5px #666 ;
+    margin: 20px 0 0 8px;
+}
+.tq h3{
+    margin:0 0 0 50%;
+    padding-top: 5px;
+    color: whitesmoke;
+}
